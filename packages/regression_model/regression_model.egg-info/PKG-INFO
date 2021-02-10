@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
 Name: regression-model
 Version: 0.1.0
-Summary: Deploy a regression model
+Summary: Former et deployer un modele de regression.
 Home-page: https://github.com/jbassa/model-deployment.git
 Author: 
 Author-email: joel_bassa@yahoo.fr
 License: MIT
-Description: Deploy a regression model
+Description: Former et deployer un modele de regression.
 Platform: UNKNOWN
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Programming Language :: Python
